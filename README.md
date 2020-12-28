@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Brix
 #### Web Development
-![Web Development](https://i.ibb.co/3kzmVdx/Untitled-design-1.png)
+![Web Development](https://i.ibb.co/PMcCysB/Tunnel-Wave.png)
 
 I'm Brix from Philippines, and I'm call center agent. I enjoy learning Node.js, Express, React Framework and web design. I build things from scratch and work on my goal every goal. I want to find an opportunity that will help me to grow in tech and build a trust in organization.
 
